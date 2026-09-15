@@ -59,7 +59,7 @@ app/src/main/java/com/example/courseschedule/
 ### 步骤
 
 ```bash
-git clone https://github.com/<你的用户名>/ClassTable.git
+git clone https://github.com/lilia712/TongjiClassTable.git
 ```
 
 使用 Android Studio 打开项目，等待 Gradle 同步完成后运行即可。
